@@ -83,7 +83,7 @@ curl -X POST "http://127.0.0.1:8000/predict" -H "Content-Type: application/json"
 - **Model Monitoring** – Implement model drift detection and continuous learning.
 
 ## Contributors
-- **Jason Zhang** - [GitHub](https://github.com/jjz17) | [LinkedIn](https://linkedin.com/in/jasonjzhang)
+- **Jason Zhang** - [GitHub](https://github.com/jjz17) | [LinkedIn](https://linkedin.com/in/jjz17)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
